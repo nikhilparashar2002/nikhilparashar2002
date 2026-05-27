@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>💻 Hi, I’m a Full Stack Web Developer with 1 year of experience, currently building cool stuff at IMTS.<br>🚀 I love crafting clean, functional, and user-friendly web apps from front to back.<br>🎯 Always curious, always learning — from new frameworks to better coding practices.<br>🧠 Problem-solver by profession, coffee-fueled coder by passion.<br>🎮 FPS gamer on the side — because strategic thinking and quick reflexes help in code too 😉<br>💡 Currently diving deeper into backend architecture and scalable systems.<br>🤖 Fun fact: I sometimes debug my dreams.
+💫 About Me<br>💻 Hi, I’m a Full Stack Web Developer with 3 year of experience, currently building cool stuff at IMTS.<br>🚀 I love crafting clean, functional, and user-friendly web apps from front to back.<br>🎯 Always curious, always learning — from new frameworks to better coding practices.<br>🧠 Problem-solver by profession, coffee-fueled coder by passion.<br>🎮 FPS gamer on the side — because strategic thinking and quick reflexes help in code too 😉<br>💡 Currently diving deeper into backend architecture and scalable systems.<br>🤖 Fun fact: I sometimes debug my dreams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
